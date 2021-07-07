@@ -4,7 +4,7 @@
 
 We're a collective of highly skilled software and systems architects, user interface designers and all around crafty problem solvers. 
 
-__Reach us at [services@twobit.solutions](mailto:services@twobit.solutions)__.
+__Reach us at [hello@twobit.solutions](mailto:hello@twobit.solutions)__.
 
 > Hey, this is a pretty basic site for skilled engineers to have built.
 
