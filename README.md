@@ -1,4 +1,4 @@
-# Two Bit Solutions
+# ![**](/assets/two-bits.jpeg) Two Bit Solutions
 
 ### Solutions of Variable Utility
 
