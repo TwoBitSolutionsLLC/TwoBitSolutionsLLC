@@ -1,0 +1,14 @@
+{
+  "name": "TwoBitSolutionsLLC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:TwoBitSolutionsLLC/TwoBitSolutionsLLC.git",
+  "author": "Ryan Morris <mr.morris@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
