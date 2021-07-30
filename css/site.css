@@ -201,6 +201,7 @@ footer {
  */
 @media screen and (max-width: 680px) {
   body {
+    overflow: hidden;
     grid-template-areas:
     "icon icon icon icon"
     "header header header header"
@@ -221,21 +222,23 @@ footer {
 
   header {
     margin-top: 0;
+    overflow: visible;
   }
   header h1 {
     margin-top: -2rem;
-    font-size: 20vw;
+    font-size: 19vw;
     color: #000;
   }
   header h1 .subheader {
-    font-size: 13vw;
+    font-size: 12vw;
   }
   header h2 {
     font-size: 8vw;
   }
 
   main {
-    margin: 1rem .2rem;
+    box-sizing: border-box;
+    margin: 1rem;
     padding: 0 1rem;
   }
 }
